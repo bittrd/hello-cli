@@ -1,0 +1,22 @@
+{
+  "name": "hello-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "bittrd-hello": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdaniels6813/hello-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdaniels6813/hello-cli/issues"
+  },
+  "homepage": "https://github.com/rdaniels6813/hello-cli#readme"
+}
