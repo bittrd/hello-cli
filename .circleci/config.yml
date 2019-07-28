@@ -1,0 +1,11 @@
+version: 2
+
+jobs:
+  build:
+    docker:
+      - image: rdaniels6813/semantic-release-alpine:latest
+    steps:
+      - checkout
+      - run:
+          name: Release
+          command: semantic-release

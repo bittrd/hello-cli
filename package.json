@@ -18,5 +18,21 @@
   "bugs": {
     "url": "https://github.com/rdaniels6813/hello-cli/issues"
   },
-  "homepage": "https://github.com/rdaniels6813/hello-cli#readme"
+  "homepage": "https://github.com/rdaniels6813/hello-cli#readme",
+  "release": {
+    "branch": "master",
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/github",
+      "@semantic-release/git"
+    ]
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^3.0.4",
+    "@semantic-release/git": "^7.0.16",
+    "semantic-release": "^15.13.18"
+  }
 }
