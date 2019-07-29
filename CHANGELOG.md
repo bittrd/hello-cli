@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/bittrd/hello-cli/compare/v2.0.1...v2.0.2) (2019-07-29)
+
+
+### Bug Fixes
+
+* fix repo urls in package.json ([575f9b0](https://github.com/bittrd/hello-cli/commit/575f9b0))
+
 ## [2.0.1](https://github.com/rdaniels6813/hello-cli/compare/v2.0.0...v2.0.1) (2019-07-29)
 
 
