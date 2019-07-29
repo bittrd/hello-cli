@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/bittrd/hello-cli/compare/v2.0.3...v2.0.4) (2019-07-29)
+
+
+### Bug Fixes
+
+* add engines to package.json ([f11d261](https://github.com/bittrd/hello-cli/commit/f11d261))
+
 ## [2.0.3](https://github.com/bittrd/hello-cli/compare/v2.0.2...v2.0.3) (2019-07-29)
 
 
