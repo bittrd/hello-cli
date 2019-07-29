@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rdaniels6813/hello-cli.git"
+    "url": "git+https://github.com/bittrd/hello-cli.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rdaniels6813/hello-cli/issues"
+    "url": "https://github.com/bittrd/hello-cli/issues"
   },
-  "homepage": "https://github.com/rdaniels6813/hello-cli#readme",
+  "homepage": "https://github.com/bittrd/hello-cli#readme",
   "release": {
     "branch": "master",
     "plugins": [
@@ -34,6 +34,5 @@
     "@semantic-release/changelog": "^3.0.4",
     "@semantic-release/git": "^7.0.16",
     "semantic-release": "^15.13.18"
-  },
-  "private": false
+  }
 }
