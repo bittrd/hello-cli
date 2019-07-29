@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/bittrd/hello-cli/compare/v2.0.2...v2.0.3) (2019-07-29)
+
+
+### Bug Fixes
+
+* add publishConfig ([6755d91](https://github.com/bittrd/hello-cli/commit/6755d91))
+
 ## [2.0.2](https://github.com/bittrd/hello-cli/compare/v2.0.1...v2.0.2) (2019-07-29)
 
 
