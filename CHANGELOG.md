@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/bittrd/hello-cli/compare/v2.0.4...v2.0.5) (2020-04-23)
+
+
+### Bug Fixes
+
+* bump dependency versions ([7397160](https://github.com/bittrd/hello-cli/commit/7397160))
+
 ## [2.0.4](https://github.com/bittrd/hello-cli/compare/v2.0.3...v2.0.4) (2019-07-29)
 
 
