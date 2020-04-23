@@ -31,9 +31,9 @@
     ]
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^3.0.4",
-    "@semantic-release/git": "^7.0.16",
-    "semantic-release": "^15.13.18"
+    "@semantic-release/changelog": "5.x",
+    "@semantic-release/git": "9.x",
+    "semantic-release": "17.x"
   },
   "publishConfig": {
     "access": "public"
