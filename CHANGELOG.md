@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/bittrd/hello-cli/compare/v2.0.5...v2.0.6) (2020-11-30)
+
+
+### Bug Fixes
+
+* remove private registry from package-lock.json ([fbb3118](https://github.com/bittrd/hello-cli/commit/fbb3118a377994f659168cbaa32c93c44b6e30f5))
+
 ## [2.0.5](https://github.com/bittrd/hello-cli/compare/v2.0.4...v2.0.5) (2020-04-23)
 
 
