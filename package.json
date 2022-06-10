@@ -33,7 +33,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "5.x",
     "@semantic-release/git": "9.x",
-    "semantic-release": "17.x"
+    "semantic-release": "19.x"
   },
   "publishConfig": {
     "access": "public"
